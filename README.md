@@ -1,17 +1,19 @@
 <h1 align="center">Hi 👋, I'm Ali Haider Kasim</h1>
-<h3 align="center">A Programing Developer Originally From Karachi in Sindh in Pakistan</h3>
+<h3 align="center">A Programing Developer Originally From Karachi, Sindh, Pakistan</h3>
 
 - 🔭 I’m currently working on [AI Agents With Python](https://github.com/Ali-Rozani/Python-CrewAI)
+
+- 🔭 I’m also currently learning Linux like for example:- Kali Linux, Ubuntu etc.
 
 - 🌱 I’m currently learning **Tensorflow, CrewAI, LangChain, LangGraph**
 
 - 👯 I’m looking to collaborate on **Big Companies Like Google And ChatGPT**
 
-- ⚡ Fun fact **I Am Currently Working On AI Agents**
+- ⚡ Fun fact **I Am Currently Working On Advanced AI Agents**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/codecommander3000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codecommander3000" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCl5TF-q-AnWVl3J3LDghy1A" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codecommander3000" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
