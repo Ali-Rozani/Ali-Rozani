@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Tensorflow, CrewAI, LangChain, LangGraph**
 
-- 👯 I’m looking to collaborate on **On Big Companies Like Google And ChatGPT**
+- 👯 I’m looking to collaborate on **Big Companies Like Google And ChatGPT**
 
 - ⚡ Fun fact **I Am Currently Working On AI Agents**
 
